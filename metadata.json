@@ -1,0 +1,7 @@
+{
+  "name": "HackZone - Discover District & Zone Hackathons",
+  "description": "Discover upcoming hackathons, coding events, innovation challenges, and tech competitions in your geographical zone and district.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
